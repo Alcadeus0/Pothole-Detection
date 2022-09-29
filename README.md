@@ -4,7 +4,6 @@
    #### ComputerVision, ObjectDetection, YOLOV4, OpenCV, html, Flask api, etc..
 
 
-![pothole_git](https://user-images.githubusercontent.com/52413661/133123628-bce3c5d8-8d25-4af7-b024-a46453f2a8d2.gif)
 
 ### How to run (Local Server) :-
 #### a) In PyCharm, go to settings choose Python interpreter & create a new environment with Python 3.6 or 3.7(as these two works better).
