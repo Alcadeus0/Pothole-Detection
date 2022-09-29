@@ -1,4 +1,4 @@
-# A Flask application for pothole detection using YOLOV4 , OpenCV &amp;
+# A Flask application for pothole detection using YOLOV4 , OpenCV;
 
 ### Architecture Used:-
    #### ComputerVision, ObjectDetection, YOLOV4, OpenCV, html, Flask api, etc..
