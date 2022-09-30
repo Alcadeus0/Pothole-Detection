@@ -1,3 +1,4 @@
+from distutils.log import debug
 from flask import Flask, render_template, Response
 from camera import VideoCamera
 
@@ -19,4 +20,5 @@ def video_feed():
                     mimetype='multipart/x-mixed-replace; boundary=frame')
 
 if __name__ == '__main__':
-    app.run(host="0.0.0.0",port="5000")
+    #app.run(host="0.0.0.0",port="5000")
+    app.run(debug=False, host='0.0.0.0')
