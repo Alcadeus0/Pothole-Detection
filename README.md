@@ -9,7 +9,7 @@
 #### a) In PyCharm, go to settings choose Python interpreter & create a new environment with Python 3.6 or 3.7(as these two works better).
 
 #### b) Open Anaconda prompt & there create a new environment by using the command--
-	conda create –n ‘env_name’ python==3.6.5
+	conda create –n ‘env_name’ python==3.7
 
 #### Activate your Environment by using the command--
       conda activate ‘env_name’
