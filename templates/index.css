@@ -1,5 +1,4 @@
 *{
-background-color: blue;
 padding: 0;
 margin:  0;
 box-sizing: border-box;
@@ -10,6 +9,3 @@ display: flex;
 justify-content: center;
 align-items: center
 }
-
-#bg{
-max-width: 75%;}
